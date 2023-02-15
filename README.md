@@ -1,11 +1,11 @@
 <div>
   <h2 align="center">Olá, eu sou a <a href="https://www.linkedin.com/in/tiago-moreira-pimentel-aa3679172"><i>Tiago Pimentel</i></a></h2>
+     
+<div align="center">
   
 - 🌱 Desenvolvedor JAVA || Banco de Dados || Analista de Sistemas || Excel (VBA) || Power BI (DAX)
 - 👯 Contate-me no email: tiagomoreirapimentel@hotmail.com
 - 😄 Pronouns: ele/dele
-     
-<div align="center">
   
   <a href="https://github.com/adrianmuniz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianmuniz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
