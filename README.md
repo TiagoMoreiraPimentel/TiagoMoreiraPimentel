@@ -8,7 +8,9 @@
 - 😄 Pronouns: ele/dele
   
   <a href="https://github.com/TiagoMoreiraPimentel">
+    
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoMoreiraPimentel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoMoreiraPimentel&layout=compact&langs_count=7&theme=dark"/>
     
   <h2> PRINCIPAIS STACKS</h2> 
