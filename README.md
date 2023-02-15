@@ -1,7 +1,7 @@
 <div>
   <h2 align="center">Olá, eu sou a <a href="https://www.linkedin.com/in/tiago-moreira-pimentel-aa3679172"><i>Tiago Pimentel</i></a></h2>
   
-  <p align="center">Full Stack java jr pela <a href="https://brazil.generation.org/"><i>Generation</i></a>,<br><align="center"> e pela <a href="https://www.oracle.com/br/education/oracle-next-education/"><i>Oracle ONE</i></a>,<br>
+  <p align="center">Desenvolvedor java<a href="https://www.oracle.com/br/education/oracle-next-education/"><i>Oracle ONE</i></a>,<br>
 Linguagem <a href="https://meninasprogramadoras.icmc.usp.br//"><i>Python</i></a> pela ICMC USP, <br>
 Ciêntista de dados pela <a href="https://semantix.ai/"> <i>Semantix</i></a>, <br>no meu tempo livre crio conteúdo no <a href="https://www.youtube.com/channel/UCfzN3jIWFtTjwMX-NIVynxA"><i>YouTube</i></a><span> 
   <a align="rigth"  href="https://www.youtube.com/channel/UCfzN3jIWFtTjwMX-NIVynxA" target="_blank"> 
@@ -42,7 +42,7 @@ Ciêntista de dados pela <a href="https://semantix.ai/"> <i>Semantix</i></a>, <b
   <h2>Contatos</h2><br>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/nicollegianinni)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/nicollegianinni/)
+[![Linkedin Badge]([https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin](https://www.linkedin.com/in/tiago-moreira-pimentel-aa3679172/)](https://www.linkedin.com/in/nicollegianinni/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:nicolle.gianini@gmail.com)
 
 </div>
