@@ -13,7 +13,6 @@
   <img align="center" alt="java" height="60" width="70" src="https://logospng.org/download/java/logo-java-512.png">
   <img align="center" alt="python" height="50" width="40" src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-2.png">
   <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg">                                     <img align="center" alt="github" height="40" width=50" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
-  <img align="center" alt="jquery" height="50" width="40" src="https://pluspng.com/img-png/logo-jquery-png--400.png">
   <img align="center" alt="mySQL" height="40" width=50" src="https://www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png">
   <img align="center" alt="botestrap" height="45" width="55" src="https://lh6.googleusercontent.com/proxy/M_tvSYy6I1MEBflFQDd_7xuy2ycGig0NjfPiq5vrU_IPtzAl9MlbC_knprw0y5Og3lvSnOfgKkagIuHIFmBwYIg5pmFkYKhxphu5SJ6sxyoNlabLWjyNJRimxY_EYZO4Qo4BD6MTGHRtqAQC4GPQVQWgXWciwuLEfl5ca6Qc=w1600">
   <img align="center" alt="spring" height="40" width=50" src="https://user-images.githubusercontent.com/106127789/196581959-995dafdd-4fca-41da-8f44-6275e418fd56.png">
