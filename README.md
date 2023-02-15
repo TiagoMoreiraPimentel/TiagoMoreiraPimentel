@@ -1,19 +1,11 @@
 <div>
   <h2 align="center">Olá, eu sou a <a href="https://www.linkedin.com/in/tiago-moreira-pimentel-aa3679172"><i>Tiago Pimentel</i></a></h2>
   
-  <p align="center">Desenvolvedor java<a href="https://www.oracle.com/br/education/oracle-next-education/"><i>Oracle ONE</i></a>,<br>
-Linguagem <a href="https://meninasprogramadoras.icmc.usp.br//"><i>Python</i></a> pela ICMC USP, <br>
-Ciêntista de dados pela <a href="https://semantix.ai/"> <i>Semantix</i></a>, <br>no meu tempo livre crio conteúdo no <a href="https://www.youtube.com/channel/UCfzN3jIWFtTjwMX-NIVynxA"><i>YouTube</i></a><span> 
-  <a align="rigth"  href="https://www.youtube.com/channel/UCfzN3jIWFtTjwMX-NIVynxA" target="_blank"> 
-  </a><br>ultima atualização: Me formei backend java <br> pelo programa #ElasTech do PagBank pagseguro !:heart:
-     </div>
+- 🌱 Desenvolvedor JAVA || Banco de Dados || Analista de Sistemas || Excel (VBA) || Power BI (DAX)
+- 👯 Contate-me no email: tiagomoreirapimentel@hotmail.com
+- 😄 Pronouns: ele/dele
      
-   
-     
-
 <div align="center">
-  
- 
   
   <h2> PRINCIPAIS STACKS</h2> 
 </div>
