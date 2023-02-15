@@ -1,7 +1,7 @@
 <div>
   <h2 align="center">Olá, eu sou a <a href="https://www.linkedin.com/in/tiago-moreira-pimentel-aa3679172"><i>Tiago Pimentel</i></a></h2>
      
-<div>
+<div align="center">
   
 - 🌱 Desenvolvedor JAVA || Banco de Dados || Analista de Sistemas || Excel (VBA) || Power BI (DAX)
 - 👯 Contate-me no email: tiagomoreirapimentel@hotmail.com
