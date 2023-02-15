@@ -12,7 +12,7 @@
 <div align="center" valign="top">
   <img align="center" alt="java" height="60" width="70" src="https://logospng.org/download/java/logo-java-512.png">
   <img align="center" alt="python" height="50" width="40" src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-2.png">
-  <img align="center" alt="mongoDB" height="40" width=50" src="https://pluspng.com/img-png/logo-mongodb-png-mongodb-logo-png-400.png">
+  <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg">
   <img align="center" alt="git" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">                                                                                                 
   <img align="center" alt="github" height="40" width=50" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
   <img align="center" alt="Angular" height="50" width="60" src="https://www.kindpng.com/picc/m/70-705578_manage-loading-with-angular-material-progress-bars-angular.png">
