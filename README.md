@@ -20,6 +20,7 @@
   <img align="center" alt="python" height="50" width="40" src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-2.png">
   <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg">                                     <img align="center" alt="github" height="40" width=50" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
   <img align="center" alt="mySQL" height="40" width=50" src="https://www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png">
+  <img align="center" alt="github" height="40" width=50" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
 </div><br>
   <div align="center">
   <h2>Contatos</h2><br>
