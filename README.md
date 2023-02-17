@@ -21,6 +21,8 @@
   <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg">                                     <img align="center" alt="github" height="40" width=50" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
   <img align="center" alt="mySQL" height="40" width=50" src="https://www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png">
   <img align="center" alt="github" height="40" width=50" src="https://static-00.iconduck.com/assets.00/file-type-vba-icon-512x286-atniaiws.png">
+  <img align="center" alt="java" height="60" width="70" src="[https://logospng.org/download/java/logo-java-512.png](https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png)">
+  <img align="center" alt="java" height="60" width="70" src="[https://logospng.org/download/java/logo-java-512.png](https://e7.pngegg.com/pngimages/820/213/png-clipart-power-bi-business-intelligence-microsoft-corporation-data-visualization-data-analysis-power-bi-dashboard-templates.png)">
 </div><br>
   <div align="center">
   <h2>Contatos</h2><br>
