@@ -22,7 +22,7 @@
   <img align="center" alt="mySQL" height="40" width=50" src="https://www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png">
   <img align="center" alt="github" height="40" width=50" src="https://static-00.iconduck.com/assets.00/file-type-vba-icon-512x286-atniaiws.png">
   <img align="center" alt="java" height="60" width="70" src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png">
-  <img align="center" alt="java" height="60" width="70" src="https://ojt.com/wp-content/uploads/2021/08/Power_BI-removebg-preview.png">
+  <img align="center" alt="java" height="60" width="70" src="https://www.domosolucoes.com.br/wp-content/uploads/2020/09/power-bi.jpg">
 </div><br>
   <div align="center">
   <h2>Contatos</h2><br>
