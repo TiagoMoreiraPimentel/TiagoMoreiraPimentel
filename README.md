@@ -13,7 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoMoreiraPimentel&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
     
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TiagoMoreiraPimentel&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)    
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TiagoMoreiraPimentel)](https://github.com/anuraghazra/github-readme-stats)    
     
   <h2> PRINCIPAIS STACKS</h2> 
 </div>
