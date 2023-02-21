@@ -10,7 +10,8 @@
   <a href="https://github.com/TiagoMoreiraPimentel">    
     
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=TiagoMoreiraPimentel&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=TiagoMoreiraPimentel&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
     
   <h2> PRINCIPAIS STACKS</h2> 
 </div>
