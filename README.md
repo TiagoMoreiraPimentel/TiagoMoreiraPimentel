@@ -7,7 +7,8 @@
 - 👯 Contate-me no email: tiagomoreirapimentel@hotmail.com
 - 😄 Pronouns: ele/dele
       
-<a href="https://github.com/TiagoMoreiraPimentel">  
+<a href="https://github.com/TiagoMoreiraPimentel">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoMoreiraPimentel&show_icons=true&theme=radical)  
 
     
