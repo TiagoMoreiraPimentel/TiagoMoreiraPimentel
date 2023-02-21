@@ -7,11 +7,9 @@
 - 👯 Contate-me no email: tiagomoreirapimentel@hotmail.com
 - 😄 Pronouns: ele/dele
       
-<div>
-  <a href="https://github.com/TiagoMoreiraPimentel">  
-  <img height="180em" src="https:tiago-moreira-pimentel-3wqo2h0vc-tiagomoreirapimentel.vercel.app/api?username=TiagoMoreiraPimentel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https:tiago-moreira-pimentel-3wqo2h0vc-tiagomoreirapimentel.vercel.app/api/top-langs/?username=TiagoMoreiraPimentel&layout=compact&langs_count=7&theme=dark"/>
-</div>    
+<a href="https://github.com/TiagoMoreiraPimentel">  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoMoreiraPimentel&show_icons=true&theme=radical)  
+
     
 <h2> PRINCIPAIS STACKS</h2> 
 </div>
