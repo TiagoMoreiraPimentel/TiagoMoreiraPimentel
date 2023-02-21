@@ -10,7 +10,7 @@
 <div>
   <a href="https://github.com/TiagoMoreiraPimentel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoMoreiraPimentel&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoMoreiraPimentel&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoMoreiraPimentel&layout=compact&theme=dark"/>
 </div>
     
 <h2> PRINCIPAIS STACKS</h2> 
