@@ -7,15 +7,15 @@
 - 👯 Contate-me no email: tiagomoreirapimentel@hotmail.com
 - 😄 Pronouns: ele/dele
   
-  <a href="https://github.com/TiagoMoreiraPimentel">    
+<a href="https://github.com/TiagoMoreiraPimentel">    
     
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=TiagoMoreiraPimentel&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoMoreiraPimentel&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/adrianmuniz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianmuniz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianmuniz&layout=compact&langs_count=7&theme=dark"/>
+</div>    
     
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TiagoMoreiraPimentel)](https://github.com/anuraghazra/github-readme-stats)    
-    
-  <h2> PRINCIPAIS STACKS</h2> 
+<h2> PRINCIPAIS STACKS</h2> 
 </div>
 <div align="center" valign="top">
   <img align="center" alt="java" height="60" width="70" src="https://logospng.org/download/java/logo-java-512.png">
@@ -26,14 +26,14 @@
   <img align="center" alt="java" height="60" width="70" src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png">
   <img align="center" alt="java" height="60" width="70" src="https://www.domosolucoes.com.br/wp-content/uploads/2020/09/power-bi.jpg">
 </div><br>
-  <div align="center">
-  <h2>Contatos</h2><br>
-   <a href = "mailto:tiagomoreirapimentel@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/tiago-moreira-pimentel-aa3679172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center">
+<h2>Contatos</h2><br>
+<a href = "mailto:tiagomoreirapimentel@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href="https://www.linkedin.com/in/tiago-moreira-pimentel-aa3679172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-  <div align="center">
+<div align="center">
     
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
                      
     
