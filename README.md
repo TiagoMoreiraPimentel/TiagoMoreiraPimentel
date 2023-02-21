@@ -9,7 +9,7 @@
       
 <a href="https://github.com/TiagoMoreiraPimentel">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoMoreiraPimentel&show_icons=true&theme=radical)
+![TiagoMoreiraPimentel GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoMoreiraPimentel&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoMoreiraPimentel)](https://github.com/TiagoMoreiraPimentel/github-readme-stats)
   
 <div>
