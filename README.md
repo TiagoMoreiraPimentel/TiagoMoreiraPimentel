@@ -24,7 +24,7 @@
   <img align="center" alt="github" height="40" width=50" src="https://static-00.iconduck.com/assets.00/file-type-vba-icon-512x286-atniaiws.png">
   <img align="center" alt="Excel" height="60" width="70" src="https://tse4.mm.bing.net/th?id=OIP.ZxC9BPAgPTgnKYQsIvcVKQHaHa&pid=Api">
   <img align="center" alt="BI" height="60" width="70" src="https://tse4.mm.bing.net/th?id=OIP.-jubPhgs-9HmuGP8SaJGzwHaHS&pid=Api">
-  <img align="center" alt="QTdesign" height="60" width="70" src="https://tse4.mm.bing.net/th?id=OIP.-jubPhgs-9HmuGP8SaJGzwHaHS&pid=Api">
+  
 </div><br>
 <div align="center">
 <h2>Contatos</h2><br>
