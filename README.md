@@ -19,23 +19,24 @@
 
 ## 🚀 PRINCIPAIS STACKS
 <div align="center">
-  <img src="https://logospng.org/download/java/logo-java-512.png" alt="Java" height="70">
-  <img src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-2.png" alt="Python" height="60">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" height="60">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="60">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS" height="60">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua" height="60">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" height="60">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git" height="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="70">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" height="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="60">
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="MySQL" height="60">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Oracle_logo.svg" alt="Oracle" height="60">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_Excel_%282013%E2%80%932019%29.svg" alt="Excel VBA" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Power_BI_logo_black.svg" alt="Power BI" height="60">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Qt_logo_2016.svg" alt="QTdesign" height="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" height="60">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Microsoft_Excel_2013-2019_logo.svg" alt="Excel VBA" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" alt="Power BI" height="60">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo.svg" alt="QTdesign" height="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="Unity" height="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Blender_logo_no_text.svg" alt="Blender" height="60">
 </div>
+
 
 ---
 
