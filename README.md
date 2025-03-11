@@ -19,22 +19,23 @@
 
 ## 🚀 PRINCIPAIS STACKS
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="70">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="60">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="60">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="60">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="60">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" height="60">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="60">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="60">
+  <img src="https://logospng.org/download/java/logo-java-512.png" alt="Java" height="70">
+  <img src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-2.png" alt="Python" height="60">
+  <img src="https://tse3.mm.bing.net/th?id=OIP.lxMbLFRw0sgOlOwjC62ySwHaKc&pid=Api" alt="HTML" height="60">
+  <img src="https://tse4.mm.bing.net/th?id=OIP.uxyS0knderVEEgb1pY50IwHaKl&pid=Api" alt="JS" height="60">
+  <img src="https://tse4.mm.bing.net/th?id=OIP.yUIb5S_kj98Eg5tT-Onx1AHaHa&pid=Api" alt="CSS" height="60">
+  <img src="https://tse4.mm.bing.net/th?id=OIP.gwALbmBqJW7cFO25fAlTSQHaHa&pid=Api" alt="LUA" height="60">
+  <img src="https://tse1.mm.bing.net/th?id=OIP.zirjCzJZe_hmpyvJTvFW1wHaIQ&pid=Api" alt="C#" height="60">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git" height="60">
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="60">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" height="60">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Microsoft_Excel_2013-2019_logo.svg" alt="Excel VBA" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" alt="Power BI" height="60">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo.svg" alt="QTdesign" height="60">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="Unity" height="60">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Blender_logo_no_text.svg" alt="Blender" height="60">
+  <img src="https://www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png" alt="MySQL" height="40">
+  <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" alt="Oracle" height="40">
+  <img src="https://static-00.iconduck.com/assets.00/file-type-vba-icon-512x286-atniaiws.png" alt="VBA" height="60">
+  <img src="https://tse4.mm.bing.net/th?id=OIP.ZxC9BPAgPTgnKYQsIvcVKQHaHa&pid=Api" alt="Excel VBA" height="50">
+  <img src="https://tse4.mm.bing.net/th?id=OIP.-jubPhgs-9HmuGP8SaJGzwHaHS&pid=Api" alt="Power BI" height="60">
+  <img src="https://tse1.mm.bing.net/th?id=OIP.Qc-NqOUEzGK1CajByISJLwAAAA&pid=Api" alt="QTdesign" height="60">
+  <img src="https://tse3.mm.bing.net/th?id=OIP.MEy1beiPO_V_jXFmmWzUdwAAAA&pid=Api" alt="Unity" height="60">
+  <img src="https://tse1.mm.bing.net/th?id=OIP.8mcnn1rPoOlJbKCv5bcDhQHaHa&pid=Api" alt="Blender" height="60">
 </div>
 
 
