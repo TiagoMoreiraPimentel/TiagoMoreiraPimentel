@@ -28,6 +28,8 @@
   <img src="https://static-00.iconduck.com/assets.00/file-type-vba-icon-512x286-atniaiws.png" alt="VBA" height="40">
   <img src="https://tse4.mm.bing.net/th?id=OIP.ZxC9BPAgPTgnKYQsIvcVKQHaHa&pid=Api" alt="Excel VBA" height="60">
   <img src="https://tse4.mm.bing.net/th?id=OIP.-jubPhgs-9HmuGP8SaJGzwHaHS&pid=Api" alt="Power BI" height="60">
+  <img src="https://tse1.mm.bing.net/th?id=OIP.Qc-NqOUEzGK1CajByISJLwAAAA&pid=Api" alt="Power BI" height="60">
+  <img src="https://tse3.mm.bing.net/th?id=OIP.MEy1beiPO_V_jXFmmWzUdwAAAA&pid=Api" alt="Power BI" height="60">
 </div>
 
 ---
