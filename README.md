@@ -25,9 +25,9 @@
   <img src="https://tse4.mm.bing.net/th?id=OIP.gwALbmBqJW7cFO25fAlTSQHaHa&pid=Api" alt="LUA" height="60">
   <img src="https://tse1.mm.bing.net/th?id=OIP.zirjCzJZe_hmpyvJTvFW1wHaIQ&pid=Api" alt="C#" height="60">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git" height="60">
-  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="60">
-  <img src="https://www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png" alt="MySQL" height="60">
-  <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" alt="Oracle" height="60">
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="40">
+  <img src="https://www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png" alt="MySQL" height="40">
+  <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" alt="Oracle" height="40">
   <img src="https://static-00.iconduck.com/assets.00/file-type-vba-icon-512x286-atniaiws.png" alt="VBA" height="60">
   <img src="https://tse4.mm.bing.net/th?id=OIP.ZxC9BPAgPTgnKYQsIvcVKQHaHa&pid=Api" alt="Excel VBA" height="50">
   <img src="https://tse4.mm.bing.net/th?id=OIP.-jubPhgs-9HmuGP8SaJGzwHaHS&pid=Api" alt="Power BI" height="60">
