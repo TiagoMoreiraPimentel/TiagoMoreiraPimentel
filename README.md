@@ -26,8 +26,8 @@
   <img src="https://www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png" alt="MySQL" height="40">
   <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" alt="Oracle" height="40">
   <img src="https://static-00.iconduck.com/assets.00/file-type-vba-icon-512x286-atniaiws.png" alt="VBA" height="40">
-  <img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png" alt="Excel VBA" height="60">
-  <img src="https://www.domosolucoes.com.br/wp-content/uploads/2020/09/power-bi.jpg" alt="Power BI" height="60">
+  <img src="https://tse4.mm.bing.net/th?id=OIP.ZxC9BPAgPTgnKYQsIvcVKQHaHa&pid=Api" alt="Excel VBA" height="60">
+  <img src="https://tse4.mm.bing.net/th?id=OIP.-jubPhgs-9HmuGP8SaJGzwHaHS&pid=Api" alt="Power BI" height="60">
 </div>
 
 ---
