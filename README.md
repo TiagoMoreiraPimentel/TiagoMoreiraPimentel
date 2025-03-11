@@ -18,20 +18,17 @@
 <div align="center" valign="top">
   <img align="center" alt="java" height="60" width="70" src="https://logospng.org/download/java/logo-java-512.png">
   <img align="center" alt="python" height="50" width="40" src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-2.png">
-  <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg">                                       
-  <img align="center" alt="github" height="40" width=50" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
+  <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg">                                     <img align="center" alt="github" height="40" width=50" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
   <img align="center" alt="mySQL" height="40" width=50" src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png">
   <img align="center" alt="Oracle" height="40" width=50" src="https://www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png">
   <img align="center" alt="github" height="40" width=50" src="https://static-00.iconduck.com/assets.00/file-type-vba-icon-512x286-atniaiws.png">
-  <img align="center" alt="Excel" height="60" width="70" src="https://tse4.mm.bing.net/th?id=OIP.ZxC9BPAgPTgnKYQsIvcVKQHaHa&pid=Api">
-  <img align="center" alt="BI" height="60" width="70" src="https://tse4.mm.bing.net/th?id=OIP.-jubPhgs-9HmuGP8SaJGzwHaHS&pid=Api">
-  <img align="center" alt="QTdesign" height="60" width="70" src="https://tse4.mm.bing.net/th?id=OIP.-jubPhgs-9HmuGP8SaJGzwHaHS&pid=Api">
-  
+  <img align="center" alt="java" height="60" width="70" src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png">
+  <img align="center" alt="java" height="60" width="70" src="https://www.domosolucoes.com.br/wp-content/uploads/2020/09/power-bi.jpg">
 </div><br>
 <div align="center">
 <h2>Contatos</h2><br>
 <a href = "mailto:tiagomoreirapimentel@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-<a href="https://www.linkedin.com/in/tiago-moreira-pimentel-aa3679172/" target="_blank"><img src="[https://tse1.mm.bing.net/th?id=OIP.mpqIWtVwNK_qjUGT4cx4lQHaHU&pid=Api](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/tiago-moreira-pimentel-aa3679172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
 <div align="center">
