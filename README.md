@@ -21,6 +21,7 @@
 <div align="center">
   <img src="https://logospng.org/download/java/logo-java-512.png" alt="Java" height="60">
   <img src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-2.png" alt="Python" height="50">
+  <img src="https://tse3.mm.bing.net/th?id=OIP.QjuXtByLQg0o6E-bB6Uw7AHaEV&pid=Api" alt="Python" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git" height="50">
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="40">
   <img src="https://www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png" alt="MySQL" height="40">
