@@ -21,7 +21,9 @@
 <div align="center">
   <img src="https://logospng.org/download/java/logo-java-512.png" alt="Java" height="60">
   <img src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-2.png" alt="Python" height="50">
-  <img src="https://tse3.mm.bing.net/th?id=OIP.QjuXtByLQg0o6E-bB6Uw7AHaEV&pid=Api" alt="Python" height="50">
+  <img src="https://tse3.mm.bing.net/th?id=OIP.QjuXtByLQg0o6E-bB6Uw7AHaEV&pid=Api" alt="HTML-JS-CSS" height="50">
+  <img src="https://tse4.mm.bing.net/th?id=OIP.gwALbmBqJW7cFO25fAlTSQHaHa&pid=Api" alt="LUA" height="50">
+  <img src="https://tse1.mm.bing.net/th?id=OIP.zirjCzJZe_hmpyvJTvFW1wHaIQ&pid=Api" alt="C#" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git" height="50">
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="40">
   <img src="https://www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png" alt="MySQL" height="40">
@@ -29,9 +31,9 @@
   <img src="https://static-00.iconduck.com/assets.00/file-type-vba-icon-512x286-atniaiws.png" alt="VBA" height="40">
   <img src="https://tse4.mm.bing.net/th?id=OIP.ZxC9BPAgPTgnKYQsIvcVKQHaHa&pid=Api" alt="Excel VBA" height="60">
   <img src="https://tse4.mm.bing.net/th?id=OIP.-jubPhgs-9HmuGP8SaJGzwHaHS&pid=Api" alt="Power BI" height="60">
-  <img src="https://tse1.mm.bing.net/th?id=OIP.Qc-NqOUEzGK1CajByISJLwAAAA&pid=Api" alt="Power BI" height="60">
-  <img src="https://tse3.mm.bing.net/th?id=OIP.MEy1beiPO_V_jXFmmWzUdwAAAA&pid=Api" alt="Power BI" height="60">
-  <img src="https://tse1.mm.bing.net/th?id=OIP.8mcnn1rPoOlJbKCv5bcDhQHaHa&pid=Api" alt="Power BI" height="60">
+  <img src="https://tse1.mm.bing.net/th?id=OIP.Qc-NqOUEzGK1CajByISJLwAAAA&pid=Api" alt="QTdesign" height="60">
+  <img src="https://tse3.mm.bing.net/th?id=OIP.MEy1beiPO_V_jXFmmWzUdwAAAA&pid=Api" alt="Unity" height="60">
+  <img src="https://tse1.mm.bing.net/th?id=OIP.8mcnn1rPoOlJbKCv5bcDhQHaHa&pid=Api" alt="Blender" height="60">
 </div>
 
 ---
