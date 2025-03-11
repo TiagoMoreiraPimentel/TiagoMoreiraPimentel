@@ -30,7 +30,7 @@
   <img src="https://tse4.mm.bing.net/th?id=OIP.-jubPhgs-9HmuGP8SaJGzwHaHS&pid=Api" alt="Power BI" height="60">
   <img src="https://tse1.mm.bing.net/th?id=OIP.Qc-NqOUEzGK1CajByISJLwAAAA&pid=Api" alt="Power BI" height="60">
   <img src="https://tse3.mm.bing.net/th?id=OIP.MEy1beiPO_V_jXFmmWzUdwAAAA&pid=Api" alt="Power BI" height="60">
-  <img src="https://tse2.mm.bing.net/th?id=OIP.i6BvljP6mLcpbefOmRC0LwHaEK&pid=Api" alt="Power BI" height="60">
+  <img src="https://tse1.mm.bing.net/th?id=OIP.8mcnn1rPoOlJbKCv5bcDhQHaHa&pid=Api" alt="Power BI" height="60">
 </div>
 
 ---
