@@ -23,7 +23,7 @@
   <img src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-2.png" alt="Python" height="60">
   <img src="https://tse3.mm.bing.net/th?id=OIP.lxMbLFRw0sgOlOwjC62ySwHaKc&pid=Api" alt="HTML" height="60">
   <img src="https://tse4.mm.bing.net/th?id=OIP.uxyS0knderVEEgb1pY50IwHaKl&pid=Api" alt="JS" height="60">
-  <img src="https://tse4.mm.bing.net/th?id=OIP.yUIb5S_kj98Eg5tT-Onx1AHaHa&pid=Api" alt="CSS" height="60">
+  <img src="https://tse4.mm.bing.net/th?id=OIP.yUIb5S_kj98Eg5tT-Onx1AHaHa&pid=Api" alt="CSS" height="70">
   <img src="https://tse4.mm.bing.net/th?id=OIP.gwALbmBqJW7cFO25fAlTSQHaHa&pid=Api" alt="LUA" height="60">
   <img src="https://tse1.mm.bing.net/th?id=OIP.zirjCzJZe_hmpyvJTvFW1wHaIQ&pid=Api" alt="C#" height="60">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git" height="60">
