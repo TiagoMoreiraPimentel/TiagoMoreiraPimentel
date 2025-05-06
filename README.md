@@ -23,6 +23,9 @@
 ---
 
 ## 🚀 PRINCIPAIS STACKS
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <div align="center">
   <img src="https://logospng.org/download/java/logo-java-512.png" alt="Java" height="70">
   <img src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-2.png" alt="Python" height="60">
