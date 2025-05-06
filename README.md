@@ -18,7 +18,7 @@
 ---
 
 ## Troféus
-<img src="https://github-profile-trophy.vercel.app/?username=tiagopimentel&theme=dracula&row=1&column=6&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=tiagopimentel&theme=onedark&row=1&column=6&margin-w=15&margin-h=15" />
 
 ---
 
