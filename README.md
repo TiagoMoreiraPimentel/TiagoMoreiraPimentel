@@ -34,7 +34,7 @@
 <div align="center">
 
 ## 🚀 PRINCIPAIS STACKS
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,aiscript,androidstudio,blender,c,cs,cpp,discord,github,git,gmail,java,linux,notion,php,postgres,pycharm,py,qt,r,sqlite,stackoverflow,sketchup,unity,vercel,vscode,windows,)](https://skillicons.dev)
 
 </div>
 
