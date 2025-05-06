@@ -17,10 +17,16 @@
 
 ---
 
+<div align="center">
+
 ## 🏆 Conquistas & Troféus
+
 <img src="https://github-profile-trophy.vercel.app/?username=tiagopimentel&theme=onedark&row=1&column=6&margin-w=15&margin-h=15" />
 
+</div>
+
 ---
+
 
 ## 🚀 PRINCIPAIS STACKS
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
