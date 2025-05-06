@@ -31,10 +31,16 @@
 
 ---
 
+<div align="center">
+
 ## 🚀 PRINCIPAIS STACKS
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 📬 Onde me encontrar
 <div align="center">
@@ -44,6 +50,8 @@
   <a href="https://www.linkedin.com/in/tiago-moreira-pimentel-aa3679172/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+</div>
+
 </div>
 
 ---
