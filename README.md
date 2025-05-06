@@ -40,6 +40,31 @@
 
 ---
 
+---
+
+<div align="center">
+
+## 🚀 PRINCIPAIS STACKS
+
+<!-- Habilidades com suporte do skillicons.dev -->
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,php,java,r,androidstudio,discord,github,git,gmail,windows,linux,notion,py,vercel,vscode,pycharm,sqlite,postgres)](https://skillicons.dev)
+
+<!-- Habilidades personalizadas sem suporte direto no skillicons.dev -->
+<br /><br />
+
+<!-- AIScript, Qt, StackOverflow, SketchUp, Unity, Blender -->
+<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Artificial_Intelligence_logo.svg" alt="AIScript" title="AIScript" />
+<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Qt_logo_2016.svg" alt="Qt" title="Qt" />
+<img height="30" src="https://cdn.simpleicons.org/stackoverflow/FE7A16" alt="StackOverflow" title="StackOverflow" />
+<img height="30" src="https://cdn.simpleicons.org/sketchup/005F9E" alt="SketchUp" title="SketchUp" />
+<img height="30" src="https://cdn.simpleicons.org/unity/FFFFFF" alt="Unity" title="Unity" />
+<img height="30" src="https://cdn.simpleicons.org/blender/F5792A" alt="Blender" title="Blender" />
+
+</div>
+
+---
+
+
 <div align="center">
 
 ## 📬 Onde me encontrar
